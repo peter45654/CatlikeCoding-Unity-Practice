@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using System;
 //Reference from https://catlikecoding.com/unity/tutorials/basics/game-objects-and-scripts/
+//VC code commit test
 public class Clock : MonoBehaviour {
     #region public global variable
     public Transform tSecondArm;
